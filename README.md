@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @NourCheriff
-- I'm a Computer Science student at the Polytechnic University of Marche (Ancona, Italy)
+- I'm a Computer & Automation engineering student at the Polytechnic University of Marche (Ancona, Italy)
 - 🌱 I’m actually learning C++ && Java
 
 
