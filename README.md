@@ -1,6 +1,8 @@
 - 👋 Hi, I’m @NourCheriff
 - 👀 I’m interested in coding & algorithms
-- 🌱 I’m currently learning C++ ( i'm a student )
+- 🌱 I’m actually learning C++
+- I'm a Computer Science student at the Polytechnic University of Marche (Ancona, Italy)
+
 
 
 <!---
