@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NourCheriff
 - I'm a Computer & Automation Engineering student at the Polytechnic University of Marche (Ancona, Italy)
-- 🌱 I’m actually learning C++ && Java
+- 🌱 I’m actually learning C++ && Java && some of Python
 
 
 
