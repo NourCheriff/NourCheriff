@@ -1,7 +1,8 @@
-- 👋 Hi, I’m @NourCheriff
-- I'm a Computer & Automation Engineering student at the Polytechnic University of Marche (Ancona, Italy)
-- 🌱 I’m actually learning C++ && Java && some of Python
-
+- Hi, I’m Nour Cherif 👋
+- I'm a bachelor degree student in Computer & Automation Engineering at the Polytechnic University of Marche (Ancona, Italy)
+- I’m actually learning C++ and Java and some of Python
+- I like to learn new things and having a technical approach to problem solving
+- Algorithm and data structures are the best :+1:
 
 
 <!---
