@@ -1,7 +1,6 @@
-- Hi, I’m Nour Cherif 👋
-- I'm a bachelor degree student in [Computer & Automation Engineering](https://www.univpm.it/Entra/Engine/RAServePG.php/P/641110010400/M/299610010400/T/Corso-di-laurea-triennale-in-Ingegneria-Informatica-e-dellAutomazione) at the [Polytechnic University of Marche (Ancona, Italy)](https://www.univpm.it/Entra/Universita_Politecnica_delle_Marche_Home/L/1)
-- I’m currently learning the fundamentals of software engineering, computer programming, databases, web development and some of operational research. I'm also training in the field of computer engineering.
-- I enjoy exploring new technologies and I'm always looking for opportunities to apply these technologies to real-world problems.
+## Hi 👋 I’m Nour Cherif 
+- I'm a **Master** degree student in [Computer & Automation Engineering](https://www.univpm.it/Entra/Offerta_formativa_1/Offerta_formativa_2/Corso_di_laurea_magistrale_in_Ingegneria_Informatica_e_dellAutomazione_1) at the [Polytechnic University of Marche (Ancona, Italy)](https://www.univpm.it/Entra/Universita_Politecnica_delle_Marche_Home/L/1)
+- I'm deeply passionate about **software development** and I enjoy creating innovative software solutions to solve real-world problems.
+- I'm also highly interested in **cybersecurity**, especially **web** and **software** security.
 
-> Algorithms + Data Structures = Programs
-
+I use [Arch](https://archlinux.org/) btw.
